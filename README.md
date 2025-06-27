@@ -22,7 +22,7 @@ The repository includes:
 <br>
 
 Use Cases
-<br>
+
 1. Creative writing and story generation
 <br>
 2. Chatbots and conversational AI
