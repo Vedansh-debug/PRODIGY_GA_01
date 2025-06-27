@@ -3,6 +3,7 @@ This is Task Number-1 of Generative AI
 
 <br>
 Text Generation with GPT-2:-
+
 <br>
 
 This project demonstrates how to generate human-like text using OpenAI's GPT-2 language model. GPT-2 is a transformer-based deep learning model trained on a large corpus of text data, capable of producing coherent and contextually relevant text given a prompt.
@@ -21,8 +22,7 @@ The repository includes:
 5. Examples showcasing GPT-2's ability to generate stories, articles, and dialogue.
 <br>
 
-Use Cases
-
+Use Cases:
 1. Creative writing and story generation
 <br>
 2. Chatbots and conversational AI
